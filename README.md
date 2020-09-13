@@ -1,2 +1,2 @@
 # driver-imitation
-Driver imitation using camera inputs.
+Driver imitation using 3 camera inputs.
